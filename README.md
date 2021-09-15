@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Task Tracker
+Task tracker is the simple website which will be used to managed and remind the task you add to it. This website is first project which I have made with the React JS.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Below are the following documentation to help you get started with the React JS.
+
+
+## Screenshots
+![chrome_nGSYaHkZDa](https://user-images.githubusercontent.com/78084828/133407319-7e4672b1-3717-421e-8931-817f227d1ab5.png)
+
+
+## 🛠 Tech used
+1. HTML
+2. CSS
+3. React JS
+
 
 ## Available Scripts
 
@@ -39,32 +51,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Follow Me
+[![](https://img.shields.io/twitter/follow/imaashish_?style=social)](https://twitter.com/imaashish_)
