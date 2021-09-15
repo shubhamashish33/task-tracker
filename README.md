@@ -8,6 +8,13 @@ Below are the following documentation to help you get started with the React JS.
 ![chrome_nGSYaHkZDa](https://user-images.githubusercontent.com/78084828/133407319-7e4672b1-3717-421e-8931-817f227d1ab5.png)
 
 
+## Demo
+
+
+https://user-images.githubusercontent.com/78084828/133410515-fdad7f2f-2555-4939-8f3e-c3165c1b4ca2.mp4
+
+
+
 ## 🛠 Tech used
 1. HTML
 2. CSS
