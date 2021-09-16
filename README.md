@@ -1,12 +1,13 @@
 # Task Tracker
-Task tracker is the simple website which will be used to managed and remind the task you add to it. This website is first project which I have made with the React JS.
+Task tracker is the simple website which can be used to managed and remind the task you add to it. This website is my first project which I made with the React JS.
 
 Below are the following documentation to help you get started with the React JS.
 
 ## ⚠ Disclaimer
-The project is still is in the development phase, the backend (database) is not connected with the project so you might not get reminder but you can do the basic stuff like adding and removing task to app.
+The project is still is in the development phase, the backend (database) is not connected with the project so you might not get the things that you expected but you can do the basic stuff like adding and removing task to app.
 
-### I'm still learning 😕
+**I'm still learning 😕**
+
 [Visit Here🚀](https://tasktrack-er.herokuapp.com/)
 
 ## Screenshots
